@@ -1,0 +1,9 @@
+Hello there!
+
+This is not a markdown file,
+
+But this is still Mango speaking!
+
+Hoot hoot! :)
+
+Sincerely, Mango Schulke
